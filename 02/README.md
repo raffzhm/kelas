@@ -4,17 +4,25 @@
 
 Teori Menjelaskan :
 * Definisi Hyperparameter
+  aturan untuk membaca sebuah data sebelum dilakukan training dengan model
 * Iterasi
+  membaca batch per 1 epoch
 * Epoch
+  jumlah sampel data yang akan dibaca
 * Batch Size
+  jumlah sampel yang akan dibagi
 
 ## Pengembangan Dataset
 
 Kembangkan dataset dengan topik masing masing yang dipilih sebanyak 400+400 pasang.
+![image](https://github.com/raffzhm/kelas/assets/89532144/bb710956-2787-44a4-a718-8da1dd654dd7)
+
 
 ## Optimasi Hyperparameter
 
 Tentukan nilai nilai dan hitung akurasi dari setiap hyperparameter yang diubah
+![image](https://github.com/raffzhm/kelas/assets/89532144/30f34cf2-d438-4484-a525-734bb1098167)
+
 
 ## Kerjakan
 
